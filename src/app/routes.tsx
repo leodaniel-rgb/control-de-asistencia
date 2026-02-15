@@ -21,4 +21,6 @@ export const router = createBrowserRouter([
     path: "/admin",
     Component: AdminDashboard,
   },
-]);
+], {
+  basename: "/control-de-asistencia"
+});
