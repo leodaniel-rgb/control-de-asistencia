@@ -205,7 +205,7 @@ export function TeacherDashboard() {
           <div className="flex justify-between items-start mb-4">
             <div>
               <h1 className="text-3xl font-bold">{user.nombre}</h1>
-              <p className="text-green-100 mt-1">Matrícula: {user.matricula}</p>
+              <p className="text-green-100 mt-1">Número de nomina: {user.matricula}</p>
             </div>
             <button
               onClick={handleLogout}
