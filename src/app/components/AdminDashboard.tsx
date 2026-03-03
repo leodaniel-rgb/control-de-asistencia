@@ -422,7 +422,7 @@ export function AdminDashboard() {
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Matrícula</label>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Número de Nomina</label>
                 <input
                   type="text"
                   value={teacherForm.matricula}
