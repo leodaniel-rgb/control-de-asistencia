@@ -106,7 +106,7 @@ export function Login() {
                 Matrícula
               </label>
               <input
-                id="matricula"
+                id="número de nomina"
                 type="text"
                 value={matricula}
                 onChange={(e) => setMatricula(e.target.value)}
