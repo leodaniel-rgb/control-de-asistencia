@@ -17,11 +17,6 @@ Cómo usar la Action de GitHub Pages incluida:
 - En el repo, en "Actions" verás el workflow "Build and deploy to GitHub Pages" ejecutar.
 - Tras finalizar, ve a `Settings -> Pages` para ver la URL pública o revisa la salida del Action que la indicará.
 
-Requisitos y notas:
-- El móvil no necesita instalar nada.
-- La app debe abrirse por HTTPS para que Chrome/Edge en Android y Safari en iOS permitan la cámara.
-- Si quieres que te ayude a publicar (hacer el push y configurar el repo), dime y puedo crear los archivos y guiarte en el push.
-
 Comandos locales útiles:
 ```
 # levantar dev server
